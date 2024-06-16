@@ -1,0 +1,14 @@
+.active{
+  color: red;
+}
+.pokemon-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+}
+
+select {
+  margin-bottom: 10px; 
+}
+
